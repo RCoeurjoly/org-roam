@@ -80,7 +80,7 @@ wraps Org-roam. Paste the following into a new file
 
 Next, append `org-roam` to the `dotspacemacs-configuration-layers`
 list in your `.spacemacs` configuration file. Reload (`SPC f e R`) or
-restart Emacs to load `org-roam`. It's functions are available under
+restart Emacs to load `org-roam`. Its functions are available under
 the prefix `SPC a r` and `, r` when visiting an org-mode buffer.
 
 If you also have the ranger layer installed, the prefix 'ar' conflict
